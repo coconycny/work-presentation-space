@@ -11,4 +11,4 @@ click on the file again.)
  - Data Wrangling & Cleaning: a project using mark up data to show some very typical data cleaning cases, which could happen in all types of real data.
 
  - Summary - SQL Usage from Work: https://foregoing-myrtle-f18.notion.site/Summary-SQL-Usage-from-Work-0e82d5c2ce074867968bedf4ca59c8c9
-   Please click on this link to check out the work. Still in progress, but excited to show :)                                                                                                                               
+   Please click on this link to check out the work.                                                                                                                         
